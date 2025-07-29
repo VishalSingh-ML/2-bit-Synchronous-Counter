@@ -6,8 +6,9 @@
 - `RTL/counter.v` – Main module for 2-bit synchronous counter
 - https://github.com/VishalSingh-ML/2-bit-Synchronous-Counter/tree/main/RTL
 - `Testbench/counter_tb.v` – Testbench with clock generation and reset stimulus
-- 
+- https://github.com/VishalSingh-ML/2-bit-Synchronous-Counter/tree/main/Testbench
 - `waveform/GTK.png` – Waveform screenshot (from GTKWave)
+- https://github.com/VishalSingh-ML/2-bit-Synchronous-Counter/tree/main/Waveform
 
 ---
 
