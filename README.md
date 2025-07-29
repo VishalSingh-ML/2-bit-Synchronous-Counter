@@ -4,7 +4,9 @@
 
 ## 📁 Files Included:
 - `RTL/counter.v` – Main module for 2-bit synchronous counter
+- https://github.com/VishalSingh-ML/2-bit-Synchronous-Counter/tree/main/RTL
 - `Testbench/counter_tb.v` – Testbench with clock generation and reset stimulus
+- 
 - `waveform/GTK.png` – Waveform screenshot (from GTKWave)
 
 ---
