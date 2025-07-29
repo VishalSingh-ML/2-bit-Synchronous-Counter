@@ -30,7 +30,7 @@ gtkwave counter_waveform.vcd
 ---
 
 ## 📊 Output Screenshot:
-![GTKWave Output](waveform/GTK.png)
+https://github.com/VishalSingh-ML/2-bit-Synchronous-Counter/tree/main/Waveform
 
 ---
 
